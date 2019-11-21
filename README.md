@@ -1,4 +1,4 @@
-# Analysis of Conseuqences of Oil and Gas Extraction using GIS
+# Oil and Gas Extraction and the Effects on Public Schools in Los Angeles
 
 ## Introduction
 
