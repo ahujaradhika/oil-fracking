@@ -5,7 +5,7 @@
 The state of Colorado [prohibits oil and gas extraction](https://www.nytimes.com/2018/05/31/us/colorado-fracking-debates.html) 500 feet or closer to a residence and 1000 feet or closer to a school.
 
 The Trump administration has made several claims to expand oil drilling and fracking in California, a move that [California
-lawmakers aim to combat] (https://www.latimes.com/california/story/2019-09-09/california-lawmakers-block-trump-oil-drilling-fracking).
+lawmakers aim to combat](https://www.latimes.com/california/story/2019-09-09/california-lawmakers-block-trump-oil-drilling-fracking).
 
 The objectives of this analysis is to understand which schools are closest to oil and gas extraction sites and thus, are at a higher risk of exposure. Additionally, I also analyze the impact of income and the likelihood of a public school being closer to an extraction site.
 
@@ -111,7 +111,7 @@ It is interesting to note external factors like income and race that may affect 
 to extraction sites.
 
 In the case of Colorado, [a fracking site closer to a school with a higher white population was moved to a location much closer to 
-a school with a greater Black and Hispanic population]. (https://www.nytimes.com/2018/05/31/us/colorado-fracking-debates.html)
+a school with a greater Black and Hispanic population](https://www.nytimes.com/2018/05/31/us/colorado-fracking-debates.html).
 There may have been an underlying assumption that the community will not have the resources to fight the move.
 
 In the case of Los Angeles county, I have analyzed the impact of income.
