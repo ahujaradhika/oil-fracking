@@ -15,12 +15,12 @@ The following is a map of oil and gas wells in Los Angeles County:
 
 ## Public Schools Near Oil and Gas Wells
 
-In Los Angeles county, there are no schools there are less than 500 feet close to a public school.
+In Los Angeles county, there are no schools that are closer than 500 feet to a public school.
 However, there are about 256 public schools that are closer than a 1000 feet to an oil and gas well.
 
 Total Number of Public Schools in Los Angeles County: 1974
 
-| Schools that are: 				| Number of Schools | % of Total Schools |
+| Schools that are: 		    | Number of Schools | % of Total Schools |
 |-----------------------------------|-------------------|--------------------|
 | Within a 1000 Feet of an Oil Well | 256               | 12.97%             |
 | Within a Half Mile of an Oil Well | 730               | 48.07%             |
