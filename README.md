@@ -30,17 +30,17 @@ The presence of oil wells for varying lengths around schools can be seen here:
 
 <img src="oil-and-gas-buffers.gif" alt="gif showing growth of buffers" width="400"/>
 
-<div>
-	<div>
-<img src="1000ft_buffer.png" alt="If image doesn't render, refer to map on page " width="250"/>   
-	</div>
-	<div>
-<img src="half_mile_buffer.png" alt="If image doesn't render, refer to map on page " width="250"/>   
-	</div>
-	<div>
-<img src="mile_buffer.png" alt="If image doesn't render, refer to map on page " width="250"/>
-	</div>
-</div>
+1000 Feet Region Around Oil and Gas Wells:
+
+<img src="1000ft_buffer.png" alt="If image doesn't render, refer to map on page " width="400"/>
+
+Half Mile Region Around Oil and Gas Wells:
+
+<img src="half_mile_buffer.png" alt="If image doesn't render, refer to map on page " width="400"/>
+
+Mile Around Oil and Gas Wells:
+
+<img src="mile_buffer.png" alt="If image doesn't render, refer to map on page " width="400"/>
 
 #### Oil and Gas Wells Near Public Schools
 
