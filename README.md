@@ -26,6 +26,10 @@ Total Number of Public Schools in Los Angeles County: 1974
 | Within a Half Mile of an Oil Well | 730               | 48.07%             |
 | Within One Mile of an Oil Well    | 1218              | 77.36%             |
 
+The presence of oil wells for varying lengths around schools can be seen here:
+
+<img src="oil-and-gas-buffers.gif" alt="gif showing growth of buffers" width="400"/>
+
 1000 Feet Region Around Oil and Gas Wells:
 
 <img src="1000ft_buffer.png" alt="If image doesn't render, refer to map on page " width="400"/>
